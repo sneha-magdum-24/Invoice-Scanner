@@ -27,6 +27,16 @@ Thumbs.db
 *.json
 *.log
 
+# Data files
+*.xlsx
+*.csv
+*.webp
+*.html
+*.txt
+
+# Directories
+extracted_tables/
+
 # Temporary files
 temp/
 tmp/
