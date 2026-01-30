@@ -1,13 +1,30 @@
 # Python
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
-.Python
+*$py.class
 *.so
-.venv/
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
 venv/
 env/
+ENV/
+.venv/
 
 # IDE
 .vscode/
@@ -20,23 +37,12 @@ env/
 Thumbs.db
 
 # Project specific
-*.pdf
-*.png
 *.jpg
 *.jpeg
+*.png
+*.pdf
 *.json
+ollama_invoice_data.json
+
+# Logs
 *.log
-
-# Data files
-*.xlsx
-*.csv
-*.webp
-*.html
-*.txt
-
-# Directories
-extracted_tables/
-
-# Temporary files
-temp/
-tmp/
