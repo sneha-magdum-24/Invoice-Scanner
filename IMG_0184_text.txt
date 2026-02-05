@@ -1,0 +1,36 @@
+0
+INVOICE
+East Repair Inc,
+1912 Harvest Lane
+12210 US-001
+New York; NY
+InvOice #
+SHIP TO 1/0212019
+InVOICE DATE
+John Smith 2312/2019
+John Smith PO.#
+3787 Pineview Drive
+26/02/2019
+2 Courl Square Cambridge  MA 12210
+DUe DATE
+New York NY 12210
+AMOUNT
+UNIT PRICE
+DESCRIPTION
+QT} 100.00
+100.00
+Front and rear brake cables 30.00
+15.00
+New set of pedal arms
+2 15.00
+5.00
+3 Labor 3hrs
+145.00
+Sublotal
+9.06
+Sales Tax 6.25%
+S154.06
+TOTAL
+CONDITIONS
+Payment is due within 15 days
+Please make checks payable to: East Repair Inc.
